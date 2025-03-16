@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/lea/repo/smallchat'
+let g:netrw_dirhist_2='/home/lea'
+let g:netrw_dirhist_1='/home/lea/repo'
+let g:netrw_dirhist_0='/home/lea/repo/smallchat'
+let g:netrw_dirhist_9='/home/lea/repo'
+let g:netrw_dirhist_8='/home/lea/repo/smallchat'
+let g:netrw_dirhist_7='/home/lea/repo/smallchat/.git'
+let g:netrw_dirhist_6='/home/lea/repo/smallchat'
+let g:netrw_dirhist_5='/home/lea/repo/c-algorithms/src'
+let g:netrw_dirhist_4='/home/lea/c/data_structure/.gitignore'
